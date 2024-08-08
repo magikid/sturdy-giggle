@@ -1,0 +1,10 @@
+# Convert wavs to mp3s
+
+## Convert new services
+just new
+
+## Convert all services
+just all
+
+## Convert a single service
+just one "./path/to/input/input.wav" "./path/to/output/output.mp3"
